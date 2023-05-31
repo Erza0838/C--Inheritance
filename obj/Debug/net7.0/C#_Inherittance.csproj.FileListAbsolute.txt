@@ -1,0 +1,15 @@
+D:\C#_Task\C#_Inherittance\bin\Debug\net7.0\C#_Inherittance.exe
+D:\C#_Task\C#_Inherittance\bin\Debug\net7.0\C#_Inherittance.deps.json
+D:\C#_Task\C#_Inherittance\bin\Debug\net7.0\C#_Inherittance.runtimeconfig.json
+D:\C#_Task\C#_Inherittance\bin\Debug\net7.0\C#_Inherittance.dll
+D:\C#_Task\C#_Inherittance\bin\Debug\net7.0\C#_Inherittance.pdb
+D:\C#_Task\C#_Inherittance\obj\Debug\net7.0\C#_Inherittance.csproj.AssemblyReference.cache
+D:\C#_Task\C#_Inherittance\obj\Debug\net7.0\C#_Inherittance.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_Task\C#_Inherittance\obj\Debug\net7.0\C#_Inherittance.AssemblyInfoInputs.cache
+D:\C#_Task\C#_Inherittance\obj\Debug\net7.0\C#_Inherittance.AssemblyInfo.cs
+D:\C#_Task\C#_Inherittance\obj\Debug\net7.0\C#_Inherittance.csproj.CoreCompileInputs.cache
+D:\C#_Task\C#_Inherittance\obj\Debug\net7.0\C#_Inherittance.dll
+D:\C#_Task\C#_Inherittance\obj\Debug\net7.0\refint\C#_Inherittance.dll
+D:\C#_Task\C#_Inherittance\obj\Debug\net7.0\C#_Inherittance.pdb
+D:\C#_Task\C#_Inherittance\obj\Debug\net7.0\C#_Inherittance.genruntimeconfig.cache
+D:\C#_Task\C#_Inherittance\obj\Debug\net7.0\ref\C#_Inherittance.dll
